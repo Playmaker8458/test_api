@@ -1,0 +1,6 @@
+# คำสั่งที่ใช้ในการ รัน fastapi   
+
+python -m uvicorn main:app
+
+อย่าลืมติดตั้ง fastapi และ uvicorn ให้ติดตั้งด้วยคำสั่งข้างล่าง
+pip install -r requirement.txt
